@@ -1,1 +1,141 @@
-56ZS5PQ1RF-eyJsaWNlbnNlSWQiOiI1NlpTNVBRMVJGIiwibGljZW5zZWVOYW1lIjoi5q2j54mI5o6I5p2DIC4iLCJhc3NpZ25lZU5hbWUiOiIiLCJhc3NpZ25lZUVtYWlsIjoiIiwibGljZW5zZVJlc3RyaWN0aW9uIjoiRm9yIGVkdWNhdGlvbmFsIHVzZSBvbmx5IiwiY2hlY2tDb25jdXJyZW50VXNlIjpmYWxzZSwicHJvZHVjdHMiOlt7ImNvZGUiOiJJSSIsInBhaWRVcFRvIjoiMjAyMC0wMy0xMCJ9LHsiY29kZSI6IkFDIiwicGFpZFVwVG8iOiIyMDIwLTAzLTEwIn0seyJjb2RlIjoiRFBOIiwicGFpZFVwVG8iOiIyMDIwLTAzLTEwIn0seyJjb2RlIjoiUFMiLCJwYWlkVXBUbyI6IjIwMjAtMDMtMTAifSx7ImNvZGUiOiJHTyIsInBhaWRVcFRvIjoiMjAyMC0wMy0xMCJ9LHsiY29kZSI6IkRNIiwicGFpZFVwVG8iOiIyMDIwLTAzLTEwIn0seyJjb2RlIjoiQ0wiLCJwYWlkVXBUbyI6IjIwMjAtMDMtMTAifSx7ImNvZGUiOiJSUzAiLCJwYWlkVXBUbyI6IjIwMjAtMDMtMTAifSx7ImNvZGUiOiJSQyIsInBhaWRVcFRvIjoiMjAyMC0wMy0xMCJ9LHsiY29kZSI6IlJEIiwicGFpZFVwVG8iOiIyMDIwLTAzLTEwIn0seyJjb2RlIjoiUEMiLCJwYWlkVXBUbyI6IjIwMjAtMDMtMTAifSx7ImNvZGUiOiJSTSIsInBhaWRVcFRvIjoiMjAyMC0wMy0xMCJ9LHsiY29kZSI6IldTIiwicGFpZFVwVG8iOiIyMDIwLTAzLTEwIn0seyJjb2RlIjoiREIiLCJwYWlkVXBUbyI6IjIwMjAtMDMtMTAifSx7ImNvZGUiOiJEQyIsInBhaWRVcFRvIjoiMjAyMC0wMy0xMCJ9LHsiY29kZSI6IlJTVSIsInBhaWRVcFRvIjoiMjAyMC0wMy0xMCJ9XSwiaGFzaCI6IjEyMjkxNDk4LzAiLCJncmFjZVBlcmlvZERheXMiOjAsImF1dG9Qcm9sb25nYXRlZCI6ZmFsc2UsImlzQXV0b1Byb2xvbmdhdGVkIjpmYWxzZX0=-SYSsDcgL1WJmHnsiGaHUWbaZLPIe2oI3QiIneDtaIbh/SZOqu63G7RGudSjf3ssPb1zxroMti/bK9II1ugHz/nTjw31Uah7D0HqeaCO7Zc0q9BeHysiWmBZ+8bABs5vr25GgIa5pO7CJhL7RitXQbWpAajrMBAeZ2En3wCgNwT6D6hNmiMlhXsWgwkw2OKnyHZ2dl8yEL+oV5SW14t7bdjYGKQrYjSd4+2zc4FnaX88yLnGNO9B3U6G+BuM37pxS5MjHrkHqMTK8W3I66mIj6IB6dYXD5nvKKO1OZREBAr6LV0BqRYSbuJKFhZ8nd6YDG20GvW6leimv0rHVBFmA0w==-MIIElTCCAn2gAwIBAgIBCTANBgkqhkiG9w0BAQsFADAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBMB4XDTE4MTEwMTEyMjk0NloXDTIwMTEwMjEyMjk0NlowaDELMAkGA1UEBhMCQ1oxDjAMBgNVBAgMBU51c2xlMQ8wDQYDVQQHDAZQcmFndWUxGTAXBgNVBAoMEEpldEJyYWlucyBzLnIuby4xHTAbBgNVBAMMFHByb2QzeS1mcm9tLTIwMTgxMTAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxcQkq+zdxlR2mmRYBPzGbUNdMN6OaXiXzxIWtMEkrJMO/5oUfQJbLLuMSMK0QHFmaI37WShyxZcfRCidwXjot4zmNBKnlyHodDij/78TmVqFl8nOeD5+07B8VEaIu7c3E1N+e1doC6wht4I4+IEmtsPAdoaj5WCQVQbrI8KeT8M9VcBIWX7fD0fhexfg3ZRt0xqwMcXGNp3DdJHiO0rCdU+Itv7EmtnSVq9jBG1usMSFvMowR25mju2JcPFp1+I4ZI+FqgR8gyG8oiNDyNEoAbsR3lOpI7grUYSvkB/xVy/VoklPCK2h0f0GJxFjnye8NT1PAywoyl7RmiAVRE/EKwIDAQABo4GZMIGWMAkGA1UdEwQCMAAwHQYDVR0OBBYEFGEpG9oZGcfLMGNBkY7SgHiMGgTcMEgGA1UdIwRBMD+AFKOetkhnQhI2Qb1t4Lm0oFKLl/GzoRykGjAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBggkA0myxg7KDeeEwEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYDVR0PBAQDAgWgMA0GCSqGSIb3DQEBCwUAA4ICAQAF8uc+YJOHHwOFcPzmbjcxNDuGoOUIP+2h1R75Lecswb7ru2LWWSUMtXVKQzChLNPn/72W0k+oI056tgiwuG7M49LXp4zQVlQnFmWU1wwGvVhq5R63Rpjx1zjGUhcXgayu7+9zMUW596Lbomsg8qVve6euqsrFicYkIIuUu4zYPndJwfe0YkS5nY72SHnNdbPhEnN8wcB2Kz+OIG0lih3yz5EqFhld03bGp222ZQCIghCTVL6QBNadGsiN/lWLl4JdR3lJkZzlpFdiHijoVRdWeSWqM4y0t23c92HXKrgppoSV18XMxrWVdoSM3nuMHwxGhFyde05OdDtLpCv+jlWf5REAHHA201pAU6bJSZINyHDUTB+Beo28rRXSwSh3OUIvYwKNVeoBY+KwOJ7WnuTCUq1meE6GkKc4D/cXmgpOyW/1SmBz3XjVIi/zprZ0zf3qH5mkphtg6ksjKgKjmx1cXfZAAX6wcDBNaCL+Ortep1Dh8xDUbqbBVNBL4jbiL3i3xsfNiyJgaZ5sX7i8tmStEpLbPwvHcByuf59qJhV/bZOl8KqJBETCDJcY6O2aqhTUy+9x93ThKs1GKrRPePrWPluud7ttlgtRveit/pcBrnQcXOl1rHq7ByB8CFAxNotRUYL9IF5n3wJOgkPojMy6jetQA5Ogc8Sm7RG6vg1yow==
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="author" content="jack">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,
+ 		user-scalable=no" />
+<!-- 适应手机屏幕，防止屏幕缩放 -->
+
+<!--样式-->
+<link rel="stylesheet" type="text/css" href="http://www.jq22.com/jquery/bootstrap-3.3.4.css">
+</head>
+
+<body>
+<title>固定表头和首列的表格</title>
+<style type="text/css">
+#left_div{
+    width:100px;
+    float: left;
+}
+#left_div1{
+    width: 100%;
+}
+#left_div2{
+	margin-top:-20px;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+#left_table1 th{
+	background: #E9F8FF;
+	text-align:center;
+}
+#left_table2 th{
+	text-align:center;
+}
+
+#right_div{
+    float: left;
+}
+#right_div1{
+    width: 100%;
+    overflow: hidden;
+}
+#right_divx{
+    width: 900px;
+}
+#right_div2{
+	margin-top:-20px;
+    width:100%;
+    height:400px;
+    overflow: auto;
+}
+#right_table1{
+    width: 880px;
+}
+#right_table2{
+	/**width和max-width一起写，手机浏览器打开也能固定长度**/
+    width: 880px;
+    max-width: 880px;
+    white-space:nowrap;
+}
+#right_table1 th{
+	background: #E9F8FF;
+    text-align:center;
+	width:10%;
+}
+#right_table2 td{
+	width:10%;
+    text-align:center;
+}
+
+</style>
+<div class="container-fluid">
+  <div id="left_div">
+    <div id="left_div1">
+      <table id="left_table1" class="table table-bordered">
+        <tr>
+          <th>我不会动</th>
+        </tr>
+      </table>
+    </div>
+    <div id="left_div2">
+      <table id="left_table2" class="table table-bordered">
+      </table>
+    </div>
+  </div>
+  <div id="right_div">
+    <div id="right_div1">
+      <div id="right_divx">
+        <table id="right_table1" class="table table-bordered">
+          <tr>
+            <th>我是表头</th>
+            <th>我是表头</th>
+            <th>我是表头</th>
+            <th>我是表头</th>
+            <th>我是表头</th>
+            <th>我是表头</th>
+            <th>我是表头</th>
+            <th>我是表头</th>
+            <th>我是表头</th>
+            <th>我是表头</th>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div id="right_div2">
+      <table id="right_table2" class="table table-bordered">
+      </table>
+    </div>
+  </div>
+</div>
+
+<!--脚本--> 
+<script src="http://www.jq22.com/jquery/jquery-1.10.2.js"></script> 
+<script src="./bootstrap.min.js" type="text/javascript"></script> 
+<script type="text/javascript">
+
+//固定和滚动
+var right_div2 = document.getElementById("right_div2");
+right_div2.onscroll = function(){
+    var right_div2_top = this.scrollTop;
+    var right_div2_left = this.scrollLeft;
+    document.getElementById("left_div2").scrollTop = right_div2_top;
+    document.getElementById("right_div1").scrollLeft = right_div2_left;
+}
+//设置右边div宽度
+document.getElementById("right_div").style.width=""+document.documentElement.clientWidth-130+"px";	
+setInterval(function() {
+	document.getElementById("right_div").style.width=""+document.documentElement.clientWidth-130+"px";	
+}, 0);
+
+for(var i=0;i<24;i++){
+	$("#left_table2").append("<tr><th>我是首列</th></tr>");
+	$("#right_table2").append("<tr><td>"+i+"</td><td>"+i+"</td><td>"+i+"</td><td>"+i+"</td><td>"+i+"</td><td>"+i+"</td><td>"+i+"</td><td>"+i+"</td><td>"+i+"</td><td>"+i+"</td></tr>");
+}
+
+</script>
+</body>
+</html>
